@@ -76,7 +76,8 @@ double‑clicking a file.
 No admin rights are required for most tools. The script installs everything to
 your user directory.
 
----
+---<img width="519" height="483" alt="image" src="https://github.com/user-attachments/assets/798c152b-40ae-4d1b-a89d-0521d25a5091" />
+
 
 ## How to use
 
